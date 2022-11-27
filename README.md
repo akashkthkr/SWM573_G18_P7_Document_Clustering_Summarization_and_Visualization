@@ -26,8 +26,6 @@ Dataset used - 20 Newsgroups Dataset (http://qwone.com/~jason/20Newsgroups/)
 - t-SNE
 - UMAP
 - Compression-VAE
-``
-
 
 ## Team Members
 - [Sagar Sharma (1219478715)](https://github.com/Sagar1711)
