@@ -1,0 +1,2 @@
+# SWM573_G18_P7_Document_Clustering_and_Visualization
+Explore different clustering algorithms, Implemented on the dataset
