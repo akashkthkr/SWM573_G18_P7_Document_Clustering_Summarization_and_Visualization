@@ -13,7 +13,20 @@ The aim of this project is to:
 - Identifying anomalies in the dataset
 - Identifying popular words in each group - like a word cloud
 
+## DataSet Used
+Dataset used - 20 Newsgroups Dataset (http://qwone.com/~jason/20Newsgroups/)
 
+## Algorithms and Visualization Techniques used
+### Clustering
+- LDA  
+- HDBScan
+- Agglomerative clustering
+
+### Visualization Techniques
+- t-SNE
+- UMAP
+- Compression-VAE
+``
 
 
 ## Team Members
@@ -23,6 +36,5 @@ The aim of this project is to:
 - [Akash Kant (1222368576)](https://github.com/akashkthkr)
 - [Swaapnika Motapothula (1219420111)](https://github.com/smotapot)
 - [Harshitha Sadula (1223715727)](https://github.com/SadulaHarshitha )
-
 
 
