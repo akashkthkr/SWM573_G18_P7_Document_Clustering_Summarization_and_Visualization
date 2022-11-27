@@ -18,11 +18,11 @@ The aim of this project is to:
 
 ## Team Members
 - [Sagar Sharma (1219478715)](https://github.com/Sagar1711)
-- [Mounika Chadalavada (1222313482)] (https://github.com/mounikac16)
-- [Yasir Affan (1223348503)] (https://github.com/yasir18 )
-- [Akash Kant (1222368576)] (https://github.com/akashkthkr)
-- [Swaapnika Motapothula (1219420111)] (https://github.com/smotapot )
-- [Harshitha Sadula (1223715727)] (https://github.com/SadulaHarshitha )
+- [Mounika Chadalavada (1222313482)](https://github.com/mounikac16)
+- [Yasir Affan (1223348503)](https://github.com/yasir18 )
+- [Akash Kant (1222368576)](https://github.com/akashkthkr)
+- [Swaapnika Motapothula (1219420111)](https://github.com/smotapot)
+- [Harshitha Sadula (1223715727)](https://github.com/SadulaHarshitha )
 
 
 
