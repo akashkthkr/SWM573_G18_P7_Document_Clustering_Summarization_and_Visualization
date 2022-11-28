@@ -2,8 +2,7 @@
 
 Explore different clustering algorithms, Implemented on the dataset
 
-
-
+## Project Abstract & Aim
 The aim of this project is to:
 - Explore different clustering algorithms, Implemented on the dataset
 - Cluster the news articles
@@ -15,6 +14,11 @@ The aim of this project is to:
 
 ## DataSet Used
 Dataset used - 20 Newsgroups Dataset (http://qwone.com/~jason/20Newsgroups/)
+Using sklearn.datasets import fetch_20newsgroups
+
+## Run time and Instances
+We used the google colab and Pycharm Jupyter notebook for additional CPU and GPU support and dataset storage
+
 
 ## Algorithms and Visualization Techniques used
 ### Clustering
